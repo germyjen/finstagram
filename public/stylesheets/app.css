@@ -1,0 +1,23 @@
+header {
+  background-color: #02111f;
+  color: #ffd068;
+  border-bottom: inset #ffd068;
+}
+
+body {
+  background-color: #2a152f;
+}
+
+main {
+  background-color: white;
+  padding: 16px;
+}
+
+.post {
+  margin-bottom: 48px;
+}
+
+.post .user-info img {
+  border-radius: 10px;
+}
+
